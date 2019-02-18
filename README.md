@@ -1,5 +1,5 @@
 # Igdtuw-Innerve
-Winner at IGDTU MINI Hackathon *MIND THE APP*
+**Winner at IGDTU MINI Hackathon *MIND THE APP**
 ## Team Members
 *Piyush Gupta*
 
